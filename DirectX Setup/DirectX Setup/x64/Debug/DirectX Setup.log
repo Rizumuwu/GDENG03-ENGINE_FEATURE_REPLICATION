@@ -1,0 +1,5 @@
+﻿  CreditsScreen.cpp
+D:\main\School\DLSU Term 13 (1)\GDENG03\Week 10\imgui implementation\DirectX Setup\DirectX Setup\CreditsScreen.cpp(8,38): warning C4101: 'e': unreferenced local variable
+  DirectX Setup.vcxproj -> D:\main\School\DLSU Term 13 (1)\GDENG03\Week 10\imgui implementation\DirectX Setup\x64\Debug\DirectX Setup.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
