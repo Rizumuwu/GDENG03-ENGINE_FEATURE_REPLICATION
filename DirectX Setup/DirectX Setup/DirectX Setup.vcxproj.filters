@@ -159,7 +159,7 @@
     <ClCompile Include="MenuScreen.cpp">
       <Filter>UI\Screens</Filter>
     </ClCompile>
-    <ClCompile Include="CreditsScreen.cpp">
+    <ClCompile Include="SceneScreen.cpp">
       <Filter>UI\Screens</Filter>
     </ClCompile>
     <ClCompile Include="TextureManager.cpp">
@@ -167,6 +167,24 @@
     </ClCompile>
     <ClCompile Include="WICTextureLoader11.cpp">
       <Filter>WIC</Filter>
+    </ClCompile>
+    <ClCompile Include="GameScreen.cpp">
+      <Filter>UI\Screens</Filter>
+    </ClCompile>
+    <ClCompile Include="HeirarchyScreen.cpp">
+      <Filter>UI\Screens</Filter>
+    </ClCompile>
+    <ClCompile Include="FilesScreen.cpp">
+      <Filter>UI\Screens</Filter>
+    </ClCompile>
+    <ClCompile Include="DetailsScreen.cpp">
+      <Filter>UI\Screens</Filter>
+    </ClCompile>
+    <ClCompile Include="LogScreen.cpp">
+      <Filter>UI\Screens</Filter>
+    </ClCompile>
+    <ClCompile Include="AnimScreen.cpp">
+      <Filter>UI\Screens</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
@@ -278,7 +296,7 @@
     <ClInclude Include="MenuScreen.h">
       <Filter>UI\Screens</Filter>
     </ClInclude>
-    <ClInclude Include="CreditsScreen.h">
+    <ClInclude Include="SceneScreen.h">
       <Filter>UI\Screens</Filter>
     </ClInclude>
     <ClInclude Include="TextureManager.h">
@@ -286,6 +304,24 @@
     </ClInclude>
     <ClInclude Include="WICTextureLoader11.h">
       <Filter>WIC</Filter>
+    </ClInclude>
+    <ClInclude Include="GameScreen.h">
+      <Filter>UI\Screens</Filter>
+    </ClInclude>
+    <ClInclude Include="HeirarchyScreen.h">
+      <Filter>UI\Screens</Filter>
+    </ClInclude>
+    <ClInclude Include="FilesScreen.h">
+      <Filter>UI\Screens</Filter>
+    </ClInclude>
+    <ClInclude Include="DetailsScreen.h">
+      <Filter>UI\Screens</Filter>
+    </ClInclude>
+    <ClInclude Include="LogScreen.h">
+      <Filter>UI\Screens</Filter>
+    </ClInclude>
+    <ClInclude Include="AnimScreen.h">
+      <Filter>UI\Screens</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>

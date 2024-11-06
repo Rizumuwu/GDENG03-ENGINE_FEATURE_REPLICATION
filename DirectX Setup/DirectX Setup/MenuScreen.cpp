@@ -21,12 +21,7 @@ void MenuScreen::DrawUI() {
 
     ImGui::Begin("Toolbar", nullptr, toolbarFlags);
 
-    ImGui::Text("Toolbar:");
-    ImGui::SameLine();
-
-    if (ImGui::Button("Color Picker")) {
-        UIManager::GetInstance()->SpawnColorPicker();
-    }
+    ImGui::Text("MyScene");
     ImGui::SameLine();
 
     if (ImGui::Button("About")) {

@@ -3,7 +3,13 @@
 #include "GraphicsEngine.h"
 #include "MenuScreen.h"
 #include "ColorPicker.h"
-#include "CreditsScreen.h"
+#include "GameScreen.h"
+#include "HeirarchyScreen.h"
+#include "FilesScreen.h"
+#include "DetailsScreen.h"
+#include "LogScreen.h"
+#include "AnimScreen.h"
+#include "SceneScreen.h"
 
 UIManager* UIManager::sharedInstance = NULL;
 
@@ -42,9 +48,51 @@ void UIManager::SpawnColorPicker() {
 
 void UIManager::SpawnCredits() {
 	UINames uiNames;
-	CreditsScreen* creditsScreen = new CreditsScreen("Credits_1");
+	GameScreen* creditsScreen = new GameScreen("Credits_1");
 	this->uiTable[uiNames.CREDITS_SCREEN] = creditsScreen;
 	this->uiList.push_back(creditsScreen);
+}
+
+void UIManager::SpawnScene() {
+	UINames uiNames;
+	SceneScreen* gameScreen = new SceneScreen("game_1");
+	this->uiTable[uiNames.SCENE_SCREEN] = gameScreen;
+	this->uiList.push_back(gameScreen);
+}
+
+void UIManager::SpawnHeir() {
+	UINames uiNames;
+	HeirarchyScreen* heirScreen = new HeirarchyScreen("heir_1");
+	this->uiTable[uiNames.HEIRARCHY_SCREEN] = heirScreen;
+	this->uiList.push_back(heirScreen);
+}
+
+void UIManager::SpawnFiles() {
+	UINames uiNames;
+	FilesScreen* files = new FilesScreen("files_1");
+	this->uiTable[uiNames.FILES_SCREEN] = files;
+	this->uiList.push_back(files);
+}
+
+void UIManager::SpawnDetails() {
+	UINames uiNames;
+	DetailsScreen* details = new DetailsScreen("details_1");
+	this->uiTable[uiNames.DETAILS_SCREEN] = details;
+	this->uiList.push_back(details);
+}
+
+void UIManager::SpawnLog() {
+	UINames uiNames;
+	LogScreen* logScreen = new LogScreen("log_1");
+	this->uiTable[uiNames.LOG_SCREEN] = logScreen;
+	this->uiList.push_back(logScreen);
+}
+
+void UIManager::SpawnAnim() {
+	UINames uiNames;
+	AnimScreen* animScreen = new AnimScreen("anim_1");
+	this->uiTable[uiNames.ANIMATION_SCREEN] = animScreen;
+	this->uiList.push_back(animScreen);
 }
 
 
@@ -72,7 +120,6 @@ void UIManager::MainDockWindow()
 	ImGui::DockSpace(dockspace_id, ImVec2(0.0f, 0.0f), ImGuiDockNodeFlags_None);
 	ImGui::End();
 }
-
 
 UIManager::UIManager(HWND windowHandle) {
 	IMGUI_CHECKVERSION();

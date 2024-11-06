@@ -61,6 +61,14 @@ void AppWindow::OnCreate()
 	}
 
 	UIManager::GetInstance()->Init(this->m_hwnd);
+
+	UIManager::GetInstance()->SpawnColorPicker();
+	UIManager::GetInstance()->SpawnScene();
+	UIManager::GetInstance()->SpawnAnim();
+	UIManager::GetInstance()->SpawnDetails();
+	UIManager::GetInstance()->SpawnFiles();
+	UIManager::GetInstance()->SpawnHeir();
+	UIManager::GetInstance()->SpawnLog();
 }
 
 void AppWindow::OnUpdate() {
