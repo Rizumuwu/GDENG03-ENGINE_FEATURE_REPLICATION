@@ -1,34 +1,46 @@
-d:\main\school\dlsu term 13 (1)\gdeng03\week 10\imgui implementation\directx setup\directx setup\x64\debug\agameobject.obj
-d:\main\school\dlsu term 13 (1)\gdeng03\week 10\imgui implementation\directx setup\directx setup\x64\debug\appwindow.obj
-d:\main\school\dlsu term 13 (1)\gdeng03\week 10\imgui implementation\directx setup\directx setup\x64\debug\auiscreen.obj
-d:\main\school\dlsu term 13 (1)\gdeng03\week 10\imgui implementation\directx setup\directx setup\x64\debug\camera.obj
-d:\main\school\dlsu term 13 (1)\gdeng03\week 10\imgui implementation\directx setup\directx setup\x64\debug\colorpicker.obj
-d:\main\school\dlsu term 13 (1)\gdeng03\week 10\imgui implementation\directx setup\directx setup\x64\debug\constantbuffer.obj
-d:\main\school\dlsu term 13 (1)\gdeng03\week 10\imgui implementation\directx setup\directx setup\x64\debug\creditsscreen.obj
-d:\main\school\dlsu term 13 (1)\gdeng03\week 10\imgui implementation\directx setup\directx setup\x64\debug\cube.obj
-d:\main\school\dlsu term 13 (1)\gdeng03\week 10\imgui implementation\directx setup\directx setup\x64\debug\devicecontext.obj
-d:\main\school\dlsu term 13 (1)\gdeng03\week 10\imgui implementation\directx setup\directx setup\x64\debug\enginetime.obj
-d:\main\school\dlsu term 13 (1)\gdeng03\week 10\imgui implementation\directx setup\directx setup\x64\debug\graphicsengine.obj
-d:\main\school\dlsu term 13 (1)\gdeng03\week 10\imgui implementation\directx setup\directx setup\x64\debug\imgui.obj
-d:\main\school\dlsu term 13 (1)\gdeng03\week 10\imgui implementation\directx setup\directx setup\x64\debug\imgui_demo.obj
-d:\main\school\dlsu term 13 (1)\gdeng03\week 10\imgui implementation\directx setup\directx setup\x64\debug\imgui_draw.obj
-d:\main\school\dlsu term 13 (1)\gdeng03\week 10\imgui implementation\directx setup\directx setup\x64\debug\imgui_impl_dx11.obj
-d:\main\school\dlsu term 13 (1)\gdeng03\week 10\imgui implementation\directx setup\directx setup\x64\debug\imgui_impl_win32.obj
-d:\main\school\dlsu term 13 (1)\gdeng03\week 10\imgui implementation\directx setup\directx setup\x64\debug\imgui_tables.obj
-d:\main\school\dlsu term 13 (1)\gdeng03\week 10\imgui implementation\directx setup\directx setup\x64\debug\imgui_widgets.obj
-d:\main\school\dlsu term 13 (1)\gdeng03\week 10\imgui implementation\directx setup\directx setup\x64\debug\indexbuffer.obj
-d:\main\school\dlsu term 13 (1)\gdeng03\week 10\imgui implementation\directx setup\directx setup\x64\debug\inputsystem.obj
-d:\main\school\dlsu term 13 (1)\gdeng03\week 10\imgui implementation\directx setup\directx setup\x64\debug\main.obj
-d:\main\school\dlsu term 13 (1)\gdeng03\week 10\imgui implementation\directx setup\directx setup\x64\debug\menuscreen.obj
-d:\main\school\dlsu term 13 (1)\gdeng03\week 10\imgui implementation\directx setup\directx setup\x64\debug\pixelshader.obj
-d:\main\school\dlsu term 13 (1)\gdeng03\week 10\imgui implementation\directx setup\directx setup\x64\debug\plane.obj
-d:\main\school\dlsu term 13 (1)\gdeng03\week 10\imgui implementation\directx setup\directx setup\x64\debug\rendersystem.obj
-d:\main\school\dlsu term 13 (1)\gdeng03\week 10\imgui implementation\directx setup\directx setup\x64\debug\scenecamhandler.obj
-d:\main\school\dlsu term 13 (1)\gdeng03\week 10\imgui implementation\directx setup\directx setup\x64\debug\swapchain.obj
-d:\main\school\dlsu term 13 (1)\gdeng03\week 10\imgui implementation\directx setup\directx setup\x64\debug\uimanager.obj
-d:\main\school\dlsu term 13 (1)\gdeng03\week 10\imgui implementation\directx setup\directx setup\x64\debug\vertexbuffer.obj
-d:\main\school\dlsu term 13 (1)\gdeng03\week 10\imgui implementation\directx setup\directx setup\x64\debug\vertexshader.obj
-d:\main\school\dlsu term 13 (1)\gdeng03\week 10\imgui implementation\directx setup\directx setup\x64\debug\window.obj
-d:\main\school\dlsu term 13 (1)\gdeng03\week 10\imgui implementation\directx setup\directx setup\x64\debug\vc143.idb
-d:\main\school\dlsu term 13 (1)\gdeng03\week 10\imgui implementation\directx setup\directx setup\x64\debug\vc143.pdb
-d:\main\school\dlsu term 13 (1)\gdeng03\week 10\imgui implementation\directx setup\directx setup\x64\debug\directx setup.tlog\cl.command.1.tlog
+d:\documents\school stuff\dlsu stuff\gdeng03\gdeng03-engine_feature_replication\directx setup\directx setup\x64\debug\vc143.pdb
+d:\documents\school stuff\dlsu stuff\gdeng03\gdeng03-engine_feature_replication\directx setup\directx setup\x64\debug\vc143.idb
+d:\documents\school stuff\dlsu stuff\gdeng03\gdeng03-engine_feature_replication\directx setup\directx setup\x64\debug\inputsystem.obj
+d:\documents\school stuff\dlsu stuff\gdeng03\gdeng03-engine_feature_replication\directx setup\directx setup\x64\debug\indexbuffer.obj
+d:\documents\school stuff\dlsu stuff\gdeng03\gdeng03-engine_feature_replication\directx setup\directx setup\x64\debug\imgui_widgets.obj
+d:\documents\school stuff\dlsu stuff\gdeng03\gdeng03-engine_feature_replication\directx setup\directx setup\x64\debug\imgui_tables.obj
+d:\documents\school stuff\dlsu stuff\gdeng03\gdeng03-engine_feature_replication\directx setup\directx setup\x64\debug\imgui_impl_win32.obj
+d:\documents\school stuff\dlsu stuff\gdeng03\gdeng03-engine_feature_replication\directx setup\directx setup\x64\debug\imgui_impl_dx11.obj
+d:\documents\school stuff\dlsu stuff\gdeng03\gdeng03-engine_feature_replication\directx setup\directx setup\x64\debug\imgui_draw.obj
+d:\documents\school stuff\dlsu stuff\gdeng03\gdeng03-engine_feature_replication\directx setup\directx setup\x64\debug\imgui_demo.obj
+d:\documents\school stuff\dlsu stuff\gdeng03\gdeng03-engine_feature_replication\directx setup\directx setup\x64\debug\imgui.obj
+d:\documents\school stuff\dlsu stuff\gdeng03\gdeng03-engine_feature_replication\directx setup\directx setup\x64\debug\graphicsengine.obj
+d:\documents\school stuff\dlsu stuff\gdeng03\gdeng03-engine_feature_replication\directx setup\directx setup\x64\debug\enginetime.obj
+d:\documents\school stuff\dlsu stuff\gdeng03\gdeng03-engine_feature_replication\directx setup\directx setup\x64\debug\devicecontext.obj
+d:\documents\school stuff\dlsu stuff\gdeng03\gdeng03-engine_feature_replication\directx setup\directx setup\x64\debug\cube.obj
+d:\documents\school stuff\dlsu stuff\gdeng03\gdeng03-engine_feature_replication\directx setup\directx setup\x64\debug\creditsscreen.obj
+d:\documents\school stuff\dlsu stuff\gdeng03\gdeng03-engine_feature_replication\directx setup\directx setup\x64\debug\constantbuffer.obj
+d:\documents\school stuff\dlsu stuff\gdeng03\gdeng03-engine_feature_replication\directx setup\directx setup\x64\debug\colorpicker.obj
+d:\documents\school stuff\dlsu stuff\gdeng03\gdeng03-engine_feature_replication\directx setup\directx setup\x64\debug\camera.obj
+d:\documents\school stuff\dlsu stuff\gdeng03\gdeng03-engine_feature_replication\directx setup\directx setup\x64\debug\auiscreen.obj
+d:\documents\school stuff\dlsu stuff\gdeng03\gdeng03-engine_feature_replication\directx setup\directx setup\x64\debug\appwindow.obj
+d:\documents\school stuff\dlsu stuff\gdeng03\gdeng03-engine_feature_replication\directx setup\directx setup\x64\debug\agameobject.obj
+d:\documents\school stuff\dlsu stuff\gdeng03\gdeng03-engine_feature_replication\directx setup\directx setup\x64\debug\window.obj
+d:\documents\school stuff\dlsu stuff\gdeng03\gdeng03-engine_feature_replication\directx setup\directx setup\x64\debug\wictextureloader11.obj
+d:\documents\school stuff\dlsu stuff\gdeng03\gdeng03-engine_feature_replication\directx setup\directx setup\x64\debug\vertexshader.obj
+d:\documents\school stuff\dlsu stuff\gdeng03\gdeng03-engine_feature_replication\directx setup\directx setup\x64\debug\vertexbuffer.obj
+d:\documents\school stuff\dlsu stuff\gdeng03\gdeng03-engine_feature_replication\directx setup\directx setup\x64\debug\uimanager.obj
+d:\documents\school stuff\dlsu stuff\gdeng03\gdeng03-engine_feature_replication\directx setup\directx setup\x64\debug\texturemanager.obj
+d:\documents\school stuff\dlsu stuff\gdeng03\gdeng03-engine_feature_replication\directx setup\directx setup\x64\debug\swapchain.obj
+d:\documents\school stuff\dlsu stuff\gdeng03\gdeng03-engine_feature_replication\directx setup\directx setup\x64\debug\scenecamhandler.obj
+d:\documents\school stuff\dlsu stuff\gdeng03\gdeng03-engine_feature_replication\directx setup\directx setup\x64\debug\rendersystem.obj
+d:\documents\school stuff\dlsu stuff\gdeng03\gdeng03-engine_feature_replication\directx setup\directx setup\x64\debug\plane.obj
+d:\documents\school stuff\dlsu stuff\gdeng03\gdeng03-engine_feature_replication\directx setup\directx setup\x64\debug\pixelshader.obj
+d:\documents\school stuff\dlsu stuff\gdeng03\gdeng03-engine_feature_replication\directx setup\directx setup\x64\debug\menuscreen.obj
+d:\documents\school stuff\dlsu stuff\gdeng03\gdeng03-engine_feature_replication\directx setup\directx setup\x64\debug\main.obj
+d:\documents\school stuff\dlsu stuff\gdeng03\gdeng03-engine_feature_replication\directx setup\directx setup\x64\debug\directx setup.ilk
+d:\documents\school stuff\dlsu stuff\gdeng03\gdeng03-engine_feature_replication\directx setup\x64\debug\directx setup.exe
+d:\documents\school stuff\dlsu stuff\gdeng03\gdeng03-engine_feature_replication\directx setup\x64\debug\directx setup.pdb
+d:\documents\school stuff\dlsu stuff\gdeng03\gdeng03-engine_feature_replication\directx setup\directx setup\x64\debug\directx setup.tlog\cl.command.1.tlog
+d:\documents\school stuff\dlsu stuff\gdeng03\gdeng03-engine_feature_replication\directx setup\directx setup\x64\debug\directx setup.tlog\cl.items.tlog
+d:\documents\school stuff\dlsu stuff\gdeng03\gdeng03-engine_feature_replication\directx setup\directx setup\x64\debug\directx setup.tlog\cl.read.1.tlog
+d:\documents\school stuff\dlsu stuff\gdeng03\gdeng03-engine_feature_replication\directx setup\directx setup\x64\debug\directx setup.tlog\cl.write.1.tlog
+d:\documents\school stuff\dlsu stuff\gdeng03\gdeng03-engine_feature_replication\directx setup\directx setup\x64\debug\directx setup.tlog\link.command.1.tlog
+d:\documents\school stuff\dlsu stuff\gdeng03\gdeng03-engine_feature_replication\directx setup\directx setup\x64\debug\directx setup.tlog\link.read.1.tlog
+d:\documents\school stuff\dlsu stuff\gdeng03\gdeng03-engine_feature_replication\directx setup\directx setup\x64\debug\directx setup.tlog\link.secondary.1.tlog
+d:\documents\school stuff\dlsu stuff\gdeng03\gdeng03-engine_feature_replication\directx setup\directx setup\x64\debug\directx setup.tlog\link.write.1.tlog

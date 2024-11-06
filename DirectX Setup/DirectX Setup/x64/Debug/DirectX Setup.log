@@ -1,5 +1,172 @@
-﻿  CreditsScreen.cpp
-D:\main\School\DLSU Term 13 (1)\GDENG03\Week 10\imgui implementation\DirectX Setup\DirectX Setup\CreditsScreen.cpp(8,38): warning C4101: 'e': unreferenced local variable
-  DirectX Setup.vcxproj -> D:\main\School\DLSU Term 13 (1)\GDENG03\Week 10\imgui implementation\DirectX Setup\x64\Debug\DirectX Setup.exe
+﻿  AGameObject.cpp
+D:\Documents\School Stuff\DLSU Stuff\GDENG03\GDENG03-ENGINE_FEATURE_REPLICATION\DirectX Setup\DirectX Setup\Vector3D.h(53,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Documents\School Stuff\DLSU Stuff\GDENG03\GDENG03-ENGINE_FEATURE_REPLICATION\DirectX Setup\DirectX Setup\Vector3D.h(54,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Documents\School Stuff\DLSU Stuff\GDENG03\GDENG03-ENGINE_FEATURE_REPLICATION\DirectX Setup\DirectX Setup\Vector3D.h(66,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Documents\School Stuff\DLSU Stuff\GDENG03\GDENG03-ENGINE_FEATURE_REPLICATION\DirectX Setup\DirectX Setup\Vector3D.h(67,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Documents\School Stuff\DLSU Stuff\GDENG03\GDENG03-ENGINE_FEATURE_REPLICATION\DirectX Setup\DirectX Setup\Vector3D.h(77,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  AppWindow.cpp
+D:\Documents\School Stuff\DLSU Stuff\GDENG03\GDENG03-ENGINE_FEATURE_REPLICATION\DirectX Setup\DirectX Setup\Vector3D.h(53,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Documents\School Stuff\DLSU Stuff\GDENG03\GDENG03-ENGINE_FEATURE_REPLICATION\DirectX Setup\DirectX Setup\Vector3D.h(54,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Documents\School Stuff\DLSU Stuff\GDENG03\GDENG03-ENGINE_FEATURE_REPLICATION\DirectX Setup\DirectX Setup\Vector3D.h(66,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Documents\School Stuff\DLSU Stuff\GDENG03\GDENG03-ENGINE_FEATURE_REPLICATION\DirectX Setup\DirectX Setup\Vector3D.h(67,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Documents\School Stuff\DLSU Stuff\GDENG03\GDENG03-ENGINE_FEATURE_REPLICATION\DirectX Setup\DirectX Setup\Vector3D.h(77,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Documents\School Stuff\DLSU Stuff\GDENG03\GDENG03-ENGINE_FEATURE_REPLICATION\DirectX Setup\DirectX Setup\Matrix4x4.h(34,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Documents\School Stuff\DLSU Stuff\GDENG03\GDENG03-ENGINE_FEATURE_REPLICATION\DirectX Setup\DirectX Setup\Matrix4x4.h(35,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Documents\School Stuff\DLSU Stuff\GDENG03\GDENG03-ENGINE_FEATURE_REPLICATION\DirectX Setup\DirectX Setup\Matrix4x4.h(36,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Documents\School Stuff\DLSU Stuff\GDENG03\GDENG03-ENGINE_FEATURE_REPLICATION\DirectX Setup\DirectX Setup\Matrix4x4.h(37,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Documents\School Stuff\DLSU Stuff\GDENG03\GDENG03-ENGINE_FEATURE_REPLICATION\DirectX Setup\DirectX Setup\Matrix4x4.h(41,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Documents\School Stuff\DLSU Stuff\GDENG03\GDENG03-ENGINE_FEATURE_REPLICATION\DirectX Setup\DirectX Setup\Matrix4x4.h(42,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Documents\School Stuff\DLSU Stuff\GDENG03\GDENG03-ENGINE_FEATURE_REPLICATION\DirectX Setup\DirectX Setup\Matrix4x4.h(43,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Documents\School Stuff\DLSU Stuff\GDENG03\GDENG03-ENGINE_FEATURE_REPLICATION\DirectX Setup\DirectX Setup\Matrix4x4.h(44,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Documents\School Stuff\DLSU Stuff\GDENG03\GDENG03-ENGINE_FEATURE_REPLICATION\DirectX Setup\DirectX Setup\Matrix4x4.h(48,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Documents\School Stuff\DLSU Stuff\GDENG03\GDENG03-ENGINE_FEATURE_REPLICATION\DirectX Setup\DirectX Setup\Matrix4x4.h(49,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Documents\School Stuff\DLSU Stuff\GDENG03\GDENG03-ENGINE_FEATURE_REPLICATION\DirectX Setup\DirectX Setup\Matrix4x4.h(50,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Documents\School Stuff\DLSU Stuff\GDENG03\GDENG03-ENGINE_FEATURE_REPLICATION\DirectX Setup\DirectX Setup\Matrix4x4.h(51,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Documents\School Stuff\DLSU Stuff\GDENG03\GDENG03-ENGINE_FEATURE_REPLICATION\DirectX Setup\DirectX Setup\Matrix4x4.h(95,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Documents\School Stuff\DLSU Stuff\GDENG03\GDENG03-ENGINE_FEATURE_REPLICATION\DirectX Setup\DirectX Setup\Matrix4x4.h(96,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Documents\School Stuff\DLSU Stuff\GDENG03\GDENG03-ENGINE_FEATURE_REPLICATION\DirectX Setup\DirectX Setup\Matrix4x4.h(97,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Documents\School Stuff\DLSU Stuff\GDENG03\GDENG03-ENGINE_FEATURE_REPLICATION\DirectX Setup\DirectX Setup\Matrix4x4.h(98,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Documents\School Stuff\DLSU Stuff\GDENG03\GDENG03-ENGINE_FEATURE_REPLICATION\DirectX Setup\DirectX Setup\Matrix4x4.h(134,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Documents\School Stuff\DLSU Stuff\GDENG03\GDENG03-ENGINE_FEATURE_REPLICATION\DirectX Setup\DirectX Setup\AppWindow.cpp(49,14): warning C4244: 'initializing': conversion from 'LONG' to 'float', possible loss of data
+D:\Documents\School Stuff\DLSU Stuff\GDENG03\GDENG03-ENGINE_FEATURE_REPLICATION\DirectX Setup\DirectX Setup\AppWindow.cpp(50,15): warning C4244: 'initializing': conversion from 'LONG' to 'float', possible loss of data
+D:\Documents\School Stuff\DLSU Stuff\GDENG03\GDENG03-ENGINE_FEATURE_REPLICATION\DirectX Setup\DirectX Setup\AppWindow.cpp(98,32): warning C4244: '=': conversion from 'ULONGLONG' to 'float', possible loss of data
+  AUIScreen.cpp
+  Camera.cpp
+D:\Documents\School Stuff\DLSU Stuff\GDENG03\GDENG03-ENGINE_FEATURE_REPLICATION\DirectX Setup\DirectX Setup\Vector3D.h(53,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Documents\School Stuff\DLSU Stuff\GDENG03\GDENG03-ENGINE_FEATURE_REPLICATION\DirectX Setup\DirectX Setup\Vector3D.h(54,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Documents\School Stuff\DLSU Stuff\GDENG03\GDENG03-ENGINE_FEATURE_REPLICATION\DirectX Setup\DirectX Setup\Vector3D.h(66,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Documents\School Stuff\DLSU Stuff\GDENG03\GDENG03-ENGINE_FEATURE_REPLICATION\DirectX Setup\DirectX Setup\Vector3D.h(67,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Documents\School Stuff\DLSU Stuff\GDENG03\GDENG03-ENGINE_FEATURE_REPLICATION\DirectX Setup\DirectX Setup\Vector3D.h(77,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Documents\School Stuff\DLSU Stuff\GDENG03\GDENG03-ENGINE_FEATURE_REPLICATION\DirectX Setup\DirectX Setup\Matrix4x4.h(34,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Documents\School Stuff\DLSU Stuff\GDENG03\GDENG03-ENGINE_FEATURE_REPLICATION\DirectX Setup\DirectX Setup\Matrix4x4.h(35,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Documents\School Stuff\DLSU Stuff\GDENG03\GDENG03-ENGINE_FEATURE_REPLICATION\DirectX Setup\DirectX Setup\Matrix4x4.h(36,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Documents\School Stuff\DLSU Stuff\GDENG03\GDENG03-ENGINE_FEATURE_REPLICATION\DirectX Setup\DirectX Setup\Matrix4x4.h(37,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Documents\School Stuff\DLSU Stuff\GDENG03\GDENG03-ENGINE_FEATURE_REPLICATION\DirectX Setup\DirectX Setup\Matrix4x4.h(41,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Documents\School Stuff\DLSU Stuff\GDENG03\GDENG03-ENGINE_FEATURE_REPLICATION\DirectX Setup\DirectX Setup\Matrix4x4.h(42,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Documents\School Stuff\DLSU Stuff\GDENG03\GDENG03-ENGINE_FEATURE_REPLICATION\DirectX Setup\DirectX Setup\Matrix4x4.h(43,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Documents\School Stuff\DLSU Stuff\GDENG03\GDENG03-ENGINE_FEATURE_REPLICATION\DirectX Setup\DirectX Setup\Matrix4x4.h(44,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Documents\School Stuff\DLSU Stuff\GDENG03\GDENG03-ENGINE_FEATURE_REPLICATION\DirectX Setup\DirectX Setup\Matrix4x4.h(48,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Documents\School Stuff\DLSU Stuff\GDENG03\GDENG03-ENGINE_FEATURE_REPLICATION\DirectX Setup\DirectX Setup\Matrix4x4.h(49,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Documents\School Stuff\DLSU Stuff\GDENG03\GDENG03-ENGINE_FEATURE_REPLICATION\DirectX Setup\DirectX Setup\Matrix4x4.h(50,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Documents\School Stuff\DLSU Stuff\GDENG03\GDENG03-ENGINE_FEATURE_REPLICATION\DirectX Setup\DirectX Setup\Matrix4x4.h(51,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Documents\School Stuff\DLSU Stuff\GDENG03\GDENG03-ENGINE_FEATURE_REPLICATION\DirectX Setup\DirectX Setup\Matrix4x4.h(95,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Documents\School Stuff\DLSU Stuff\GDENG03\GDENG03-ENGINE_FEATURE_REPLICATION\DirectX Setup\DirectX Setup\Matrix4x4.h(96,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Documents\School Stuff\DLSU Stuff\GDENG03\GDENG03-ENGINE_FEATURE_REPLICATION\DirectX Setup\DirectX Setup\Matrix4x4.h(97,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Documents\School Stuff\DLSU Stuff\GDENG03\GDENG03-ENGINE_FEATURE_REPLICATION\DirectX Setup\DirectX Setup\Matrix4x4.h(98,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Documents\School Stuff\DLSU Stuff\GDENG03\GDENG03-ENGINE_FEATURE_REPLICATION\DirectX Setup\DirectX Setup\Matrix4x4.h(134,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Documents\School Stuff\DLSU Stuff\GDENG03\GDENG03-ENGINE_FEATURE_REPLICATION\DirectX Setup\DirectX Setup\Camera.cpp(71,22): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\Documents\School Stuff\DLSU Stuff\GDENG03\GDENG03-ENGINE_FEATURE_REPLICATION\DirectX Setup\DirectX Setup\Camera.cpp(72,22): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  ColorPicker.cpp
+  ConstantBuffer.cpp
+  CreditsScreen.cpp
+D:\Documents\School Stuff\DLSU Stuff\GDENG03\GDENG03-ENGINE_FEATURE_REPLICATION\DirectX Setup\DirectX Setup\CreditsScreen.cpp(8,38): warning C4101: 'e': unreferenced local variable
+  Cube.cpp
+D:\Documents\School Stuff\DLSU Stuff\GDENG03\GDENG03-ENGINE_FEATURE_REPLICATION\DirectX Setup\DirectX Setup\Vector3D.h(53,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Documents\School Stuff\DLSU Stuff\GDENG03\GDENG03-ENGINE_FEATURE_REPLICATION\DirectX Setup\DirectX Setup\Vector3D.h(54,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Documents\School Stuff\DLSU Stuff\GDENG03\GDENG03-ENGINE_FEATURE_REPLICATION\DirectX Setup\DirectX Setup\Vector3D.h(66,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Documents\School Stuff\DLSU Stuff\GDENG03\GDENG03-ENGINE_FEATURE_REPLICATION\DirectX Setup\DirectX Setup\Vector3D.h(67,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Documents\School Stuff\DLSU Stuff\GDENG03\GDENG03-ENGINE_FEATURE_REPLICATION\DirectX Setup\DirectX Setup\Vector3D.h(77,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Documents\School Stuff\DLSU Stuff\GDENG03\GDENG03-ENGINE_FEATURE_REPLICATION\DirectX Setup\DirectX Setup\Matrix4x4.h(34,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Documents\School Stuff\DLSU Stuff\GDENG03\GDENG03-ENGINE_FEATURE_REPLICATION\DirectX Setup\DirectX Setup\Matrix4x4.h(35,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Documents\School Stuff\DLSU Stuff\GDENG03\GDENG03-ENGINE_FEATURE_REPLICATION\DirectX Setup\DirectX Setup\Matrix4x4.h(36,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Documents\School Stuff\DLSU Stuff\GDENG03\GDENG03-ENGINE_FEATURE_REPLICATION\DirectX Setup\DirectX Setup\Matrix4x4.h(37,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Documents\School Stuff\DLSU Stuff\GDENG03\GDENG03-ENGINE_FEATURE_REPLICATION\DirectX Setup\DirectX Setup\Matrix4x4.h(41,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Documents\School Stuff\DLSU Stuff\GDENG03\GDENG03-ENGINE_FEATURE_REPLICATION\DirectX Setup\DirectX Setup\Matrix4x4.h(42,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Documents\School Stuff\DLSU Stuff\GDENG03\GDENG03-ENGINE_FEATURE_REPLICATION\DirectX Setup\DirectX Setup\Matrix4x4.h(43,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Documents\School Stuff\DLSU Stuff\GDENG03\GDENG03-ENGINE_FEATURE_REPLICATION\DirectX Setup\DirectX Setup\Matrix4x4.h(44,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Documents\School Stuff\DLSU Stuff\GDENG03\GDENG03-ENGINE_FEATURE_REPLICATION\DirectX Setup\DirectX Setup\Matrix4x4.h(48,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Documents\School Stuff\DLSU Stuff\GDENG03\GDENG03-ENGINE_FEATURE_REPLICATION\DirectX Setup\DirectX Setup\Matrix4x4.h(49,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Documents\School Stuff\DLSU Stuff\GDENG03\GDENG03-ENGINE_FEATURE_REPLICATION\DirectX Setup\DirectX Setup\Matrix4x4.h(50,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Documents\School Stuff\DLSU Stuff\GDENG03\GDENG03-ENGINE_FEATURE_REPLICATION\DirectX Setup\DirectX Setup\Matrix4x4.h(51,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Documents\School Stuff\DLSU Stuff\GDENG03\GDENG03-ENGINE_FEATURE_REPLICATION\DirectX Setup\DirectX Setup\Matrix4x4.h(95,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Documents\School Stuff\DLSU Stuff\GDENG03\GDENG03-ENGINE_FEATURE_REPLICATION\DirectX Setup\DirectX Setup\Matrix4x4.h(96,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Documents\School Stuff\DLSU Stuff\GDENG03\GDENG03-ENGINE_FEATURE_REPLICATION\DirectX Setup\DirectX Setup\Matrix4x4.h(97,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Documents\School Stuff\DLSU Stuff\GDENG03\GDENG03-ENGINE_FEATURE_REPLICATION\DirectX Setup\DirectX Setup\Matrix4x4.h(98,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Documents\School Stuff\DLSU Stuff\GDENG03\GDENG03-ENGINE_FEATURE_REPLICATION\DirectX Setup\DirectX Setup\Matrix4x4.h(134,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Documents\School Stuff\DLSU Stuff\GDENG03\GDENG03-ENGINE_FEATURE_REPLICATION\DirectX Setup\DirectX Setup\Cube.cpp(54,2): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Documents\School Stuff\DLSU Stuff\GDENG03\GDENG03-ENGINE_FEATURE_REPLICATION\DirectX Setup\DirectX Setup\Cube.cpp(107,59): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\Documents\School Stuff\DLSU Stuff\GDENG03\GDENG03-ENGINE_FEATURE_REPLICATION\DirectX Setup\DirectX Setup\Cube.cpp(108,14): warning C4244: '=': conversion from 'float' to 'unsigned int', possible loss of data
+D:\Documents\School Stuff\DLSU Stuff\GDENG03\GDENG03-ENGINE_FEATURE_REPLICATION\DirectX Setup\DirectX Setup\Cube.cpp(115,29): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  DeviceContext.cpp
+  EngineTime.cpp
+  GraphicsEngine.cpp
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_dx11.cpp
+  imgui_impl_win32.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  IndexBuffer.cpp
+  InputSystem.cpp
+  Generating Code...
+  Compiling...
+  main.cpp
+D:\Documents\School Stuff\DLSU Stuff\GDENG03\GDENG03-ENGINE_FEATURE_REPLICATION\DirectX Setup\DirectX Setup\Matrix4x4.h(95,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Documents\School Stuff\DLSU Stuff\GDENG03\GDENG03-ENGINE_FEATURE_REPLICATION\DirectX Setup\DirectX Setup\Matrix4x4.h(96,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Documents\School Stuff\DLSU Stuff\GDENG03\GDENG03-ENGINE_FEATURE_REPLICATION\DirectX Setup\DirectX Setup\Matrix4x4.h(97,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Documents\School Stuff\DLSU Stuff\GDENG03\GDENG03-ENGINE_FEATURE_REPLICATION\DirectX Setup\DirectX Setup\Matrix4x4.h(98,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  MenuScreen.cpp
+  PixelShader.cpp
+  Plane.cpp
+D:\Documents\School Stuff\DLSU Stuff\GDENG03\GDENG03-ENGINE_FEATURE_REPLICATION\DirectX Setup\DirectX Setup\Vector3D.h(53,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Documents\School Stuff\DLSU Stuff\GDENG03\GDENG03-ENGINE_FEATURE_REPLICATION\DirectX Setup\DirectX Setup\Vector3D.h(54,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Documents\School Stuff\DLSU Stuff\GDENG03\GDENG03-ENGINE_FEATURE_REPLICATION\DirectX Setup\DirectX Setup\Vector3D.h(66,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Documents\School Stuff\DLSU Stuff\GDENG03\GDENG03-ENGINE_FEATURE_REPLICATION\DirectX Setup\DirectX Setup\Vector3D.h(67,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Documents\School Stuff\DLSU Stuff\GDENG03\GDENG03-ENGINE_FEATURE_REPLICATION\DirectX Setup\DirectX Setup\Vector3D.h(77,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Documents\School Stuff\DLSU Stuff\GDENG03\GDENG03-ENGINE_FEATURE_REPLICATION\DirectX Setup\DirectX Setup\Matrix4x4.h(34,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Documents\School Stuff\DLSU Stuff\GDENG03\GDENG03-ENGINE_FEATURE_REPLICATION\DirectX Setup\DirectX Setup\Matrix4x4.h(35,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Documents\School Stuff\DLSU Stuff\GDENG03\GDENG03-ENGINE_FEATURE_REPLICATION\DirectX Setup\DirectX Setup\Matrix4x4.h(36,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Documents\School Stuff\DLSU Stuff\GDENG03\GDENG03-ENGINE_FEATURE_REPLICATION\DirectX Setup\DirectX Setup\Matrix4x4.h(37,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Documents\School Stuff\DLSU Stuff\GDENG03\GDENG03-ENGINE_FEATURE_REPLICATION\DirectX Setup\DirectX Setup\Matrix4x4.h(41,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Documents\School Stuff\DLSU Stuff\GDENG03\GDENG03-ENGINE_FEATURE_REPLICATION\DirectX Setup\DirectX Setup\Matrix4x4.h(42,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Documents\School Stuff\DLSU Stuff\GDENG03\GDENG03-ENGINE_FEATURE_REPLICATION\DirectX Setup\DirectX Setup\Matrix4x4.h(43,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Documents\School Stuff\DLSU Stuff\GDENG03\GDENG03-ENGINE_FEATURE_REPLICATION\DirectX Setup\DirectX Setup\Matrix4x4.h(44,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Documents\School Stuff\DLSU Stuff\GDENG03\GDENG03-ENGINE_FEATURE_REPLICATION\DirectX Setup\DirectX Setup\Matrix4x4.h(48,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Documents\School Stuff\DLSU Stuff\GDENG03\GDENG03-ENGINE_FEATURE_REPLICATION\DirectX Setup\DirectX Setup\Matrix4x4.h(49,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Documents\School Stuff\DLSU Stuff\GDENG03\GDENG03-ENGINE_FEATURE_REPLICATION\DirectX Setup\DirectX Setup\Matrix4x4.h(50,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Documents\School Stuff\DLSU Stuff\GDENG03\GDENG03-ENGINE_FEATURE_REPLICATION\DirectX Setup\DirectX Setup\Matrix4x4.h(51,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Documents\School Stuff\DLSU Stuff\GDENG03\GDENG03-ENGINE_FEATURE_REPLICATION\DirectX Setup\DirectX Setup\Matrix4x4.h(95,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Documents\School Stuff\DLSU Stuff\GDENG03\GDENG03-ENGINE_FEATURE_REPLICATION\DirectX Setup\DirectX Setup\Matrix4x4.h(96,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Documents\School Stuff\DLSU Stuff\GDENG03\GDENG03-ENGINE_FEATURE_REPLICATION\DirectX Setup\DirectX Setup\Matrix4x4.h(97,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Documents\School Stuff\DLSU Stuff\GDENG03\GDENG03-ENGINE_FEATURE_REPLICATION\DirectX Setup\DirectX Setup\Matrix4x4.h(98,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Documents\School Stuff\DLSU Stuff\GDENG03\GDENG03-ENGINE_FEATURE_REPLICATION\DirectX Setup\DirectX Setup\Matrix4x4.h(134,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Documents\School Stuff\DLSU Stuff\GDENG03\GDENG03-ENGINE_FEATURE_REPLICATION\DirectX Setup\DirectX Setup\Plane.cpp(37,5): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Documents\School Stuff\DLSU Stuff\GDENG03\GDENG03-ENGINE_FEATURE_REPLICATION\DirectX Setup\DirectX Setup\Plane.cpp(74,62): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\Documents\School Stuff\DLSU Stuff\GDENG03\GDENG03-ENGINE_FEATURE_REPLICATION\DirectX Setup\DirectX Setup\Plane.cpp(75,17): warning C4244: '=': conversion from 'float' to 'unsigned int', possible loss of data
+D:\Documents\School Stuff\DLSU Stuff\GDENG03\GDENG03-ENGINE_FEATURE_REPLICATION\DirectX Setup\DirectX Setup\Plane.cpp(78,32): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  RenderSystem.cpp
+  SceneCamHandler.cpp
+D:\Documents\School Stuff\DLSU Stuff\GDENG03\GDENG03-ENGINE_FEATURE_REPLICATION\DirectX Setup\DirectX Setup\Vector3D.h(53,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Documents\School Stuff\DLSU Stuff\GDENG03\GDENG03-ENGINE_FEATURE_REPLICATION\DirectX Setup\DirectX Setup\Vector3D.h(54,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Documents\School Stuff\DLSU Stuff\GDENG03\GDENG03-ENGINE_FEATURE_REPLICATION\DirectX Setup\DirectX Setup\Vector3D.h(66,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Documents\School Stuff\DLSU Stuff\GDENG03\GDENG03-ENGINE_FEATURE_REPLICATION\DirectX Setup\DirectX Setup\Vector3D.h(67,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Documents\School Stuff\DLSU Stuff\GDENG03\GDENG03-ENGINE_FEATURE_REPLICATION\DirectX Setup\DirectX Setup\Vector3D.h(77,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Documents\School Stuff\DLSU Stuff\GDENG03\GDENG03-ENGINE_FEATURE_REPLICATION\DirectX Setup\DirectX Setup\Matrix4x4.h(34,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Documents\School Stuff\DLSU Stuff\GDENG03\GDENG03-ENGINE_FEATURE_REPLICATION\DirectX Setup\DirectX Setup\Matrix4x4.h(35,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Documents\School Stuff\DLSU Stuff\GDENG03\GDENG03-ENGINE_FEATURE_REPLICATION\DirectX Setup\DirectX Setup\Matrix4x4.h(36,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Documents\School Stuff\DLSU Stuff\GDENG03\GDENG03-ENGINE_FEATURE_REPLICATION\DirectX Setup\DirectX Setup\Matrix4x4.h(37,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Documents\School Stuff\DLSU Stuff\GDENG03\GDENG03-ENGINE_FEATURE_REPLICATION\DirectX Setup\DirectX Setup\Matrix4x4.h(41,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Documents\School Stuff\DLSU Stuff\GDENG03\GDENG03-ENGINE_FEATURE_REPLICATION\DirectX Setup\DirectX Setup\Matrix4x4.h(42,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Documents\School Stuff\DLSU Stuff\GDENG03\GDENG03-ENGINE_FEATURE_REPLICATION\DirectX Setup\DirectX Setup\Matrix4x4.h(43,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Documents\School Stuff\DLSU Stuff\GDENG03\GDENG03-ENGINE_FEATURE_REPLICATION\DirectX Setup\DirectX Setup\Matrix4x4.h(44,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Documents\School Stuff\DLSU Stuff\GDENG03\GDENG03-ENGINE_FEATURE_REPLICATION\DirectX Setup\DirectX Setup\Matrix4x4.h(48,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Documents\School Stuff\DLSU Stuff\GDENG03\GDENG03-ENGINE_FEATURE_REPLICATION\DirectX Setup\DirectX Setup\Matrix4x4.h(49,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Documents\School Stuff\DLSU Stuff\GDENG03\GDENG03-ENGINE_FEATURE_REPLICATION\DirectX Setup\DirectX Setup\Matrix4x4.h(50,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Documents\School Stuff\DLSU Stuff\GDENG03\GDENG03-ENGINE_FEATURE_REPLICATION\DirectX Setup\DirectX Setup\Matrix4x4.h(51,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Documents\School Stuff\DLSU Stuff\GDENG03\GDENG03-ENGINE_FEATURE_REPLICATION\DirectX Setup\DirectX Setup\Matrix4x4.h(95,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Documents\School Stuff\DLSU Stuff\GDENG03\GDENG03-ENGINE_FEATURE_REPLICATION\DirectX Setup\DirectX Setup\Matrix4x4.h(96,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Documents\School Stuff\DLSU Stuff\GDENG03\GDENG03-ENGINE_FEATURE_REPLICATION\DirectX Setup\DirectX Setup\Matrix4x4.h(97,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Documents\School Stuff\DLSU Stuff\GDENG03\GDENG03-ENGINE_FEATURE_REPLICATION\DirectX Setup\DirectX Setup\Matrix4x4.h(98,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Documents\School Stuff\DLSU Stuff\GDENG03\GDENG03-ENGINE_FEATURE_REPLICATION\DirectX Setup\DirectX Setup\Matrix4x4.h(134,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  SwapChain.cpp
+  TextureManager.cpp
+  UIManager.cpp
+  VertexBuffer.cpp
+  VertexShader.cpp
+  WICTextureLoader11.cpp
+  Window.cpp
+  Generating Code...
+  DirectX Setup.vcxproj -> D:\Documents\School Stuff\DLSU Stuff\GDENG03\GDENG03-ENGINE_FEATURE_REPLICATION\DirectX Setup\x64\Debug\DirectX Setup.exe
   'pwsh.exe' is not recognized as an internal or external command,
   operable program or batch file.

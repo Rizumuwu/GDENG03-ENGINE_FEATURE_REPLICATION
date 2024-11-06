@@ -41,6 +41,8 @@ void MenuScreen::DrawUI() {
         ImGui::EndPopup();
     }
     ImGui::SameLine();
+    bool demo = true;
+    ImGui::ShowDemoWindow(&demo);
 
     ImGui::End();
 }
