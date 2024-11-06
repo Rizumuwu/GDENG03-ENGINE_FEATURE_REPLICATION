@@ -24,6 +24,7 @@ public:
 	void DrawAllUI();
 	void SpawnColorPicker();
 	void SpawnCredits();
+	void MainDockWindow();
 
 	static const int WINDOW_HEIGHT = 1440;
 	static const int WINDOW_WIDTH = 900;
