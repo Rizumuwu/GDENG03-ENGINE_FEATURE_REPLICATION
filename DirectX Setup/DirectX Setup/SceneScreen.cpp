@@ -18,7 +18,7 @@ void SceneScreen::DrawUI() {
     ImGui::Begin("Scene");
 
     if (textureID != nullptr) {
-        ImGui::Image(reinterpret_cast<ImTextureID>(textureID), ImVec2(200, 150));
+        ImGui::Image(reinterpret_cast<ImTextureID>(textureID), ImVec2(700, 550));
     }
     else {
         ImGui::Text("Image not loaded.");

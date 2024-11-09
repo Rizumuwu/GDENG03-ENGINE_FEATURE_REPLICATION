@@ -10,11 +10,9 @@ MenuScreen::~MenuScreen() {
 }
 
 void MenuScreen::DrawUI() {
-    // Set position and size for the toolbar
-    ImGui::SetNextWindowPos(ImVec2(0, 0));  // Place at the top of the window
-    ImGui::SetNextWindowSize(ImVec2(ImGui::GetIO().DisplaySize.x, 40));  // Full width, fixed height
+    ImGui::SetNextWindowPos(ImVec2(0, 0));
+    ImGui::SetNextWindowSize(ImVec2(ImGui::GetIO().DisplaySize.x, 30));
 
-    // Set flags to make it a toolbar-style window
     ImGuiWindowFlags toolbarFlags = ImGuiWindowFlags_NoTitleBar | ImGuiWindowFlags_NoResize |
         ImGuiWindowFlags_NoMove | ImGuiWindowFlags_NoCollapse |
         ImGuiWindowFlags_NoScrollbar | ImGuiWindowFlags_NoSavedSettings;
@@ -24,14 +22,13 @@ void MenuScreen::DrawUI() {
     ImGui::Text("MyScene");
     ImGui::SameLine();
 
-    if (ImGui::Button("About")) {
+    if (ImGui::Button("Scenes")) {
         ImGui::OpenPopup("AboutMenu");
     }
 
-    // Create the dropdown menu
     if (ImGui::BeginPopup("AboutMenu")) {
-        if (ImGui::MenuItem("Credits")) {
-            UIManager::GetInstance()->SpawnCredits();
+        if (ImGui::MenuItem("Scene 1")) {
+            UIManager::GetInstance()->SpawnScene();
         }
         ImGui::EndPopup();
     }

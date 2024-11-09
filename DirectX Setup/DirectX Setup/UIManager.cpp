@@ -35,7 +35,6 @@ void UIManager::DrawAllUI() {
 	}
 
 	ImGui::Render();
-	//GraphicsEngine::get()->GetRenderSystem()->GetContext()->OMSetRenderTargets(1, &this->m_swap_chain->m_rtv, NULL);
 	ImGui_ImplDX11_RenderDrawData(ImGui::GetDrawData());
 }
 
